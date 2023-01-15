@@ -21,3 +21,5 @@ Para cada instância, imprima uma única linha contendo o valor mínimo que a so
 |5 2<br>1 2 5 6<br>4 3<br>0 1 2|3<br>0|
 
 ### Resultado
+
+![image](https://user-images.githubusercontent.com/33001620/212565233-977c6d2f-3a00-44fa-ae76-ebebfec53bb6.png)
