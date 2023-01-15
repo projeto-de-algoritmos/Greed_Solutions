@@ -28,3 +28,5 @@ Para cada caso de teste, imprima a quantidade mínima de unidades de trabalho ne
 
 
 ### Resultado
+
+![image](https://user-images.githubusercontent.com/33001620/212563665-2526c3a1-bfb8-4963-81ec-22f067e57e07.png)
