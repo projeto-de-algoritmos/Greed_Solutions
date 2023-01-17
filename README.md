@@ -1,44 +1,83 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed_Solutions
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Dupla 10**<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0011020  |  Gabrielle Ribeiro Gomes |
+| 20/2016462  |  Heitor Marques S. Barbosa |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre  
+
+Esse projeto tem como objetivo trazer a resolução de questões de programação competitiva utilizando greed.
+
+Foram resolvidas 4 questões retiradas do Juíz online [Beecrowd](https://www.beecrowd.com.br/).
+
+Cada questão está em uma pasta, onde se encontra um README com a descrição do problema, bem como exemplos de entrada e saída. E o veredito recebido do juíz online.
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+ - Execução da questão [1084 - Apagando e Ganhando](https://github.com/projeto-de-algoritmos/Greed_Solutions/tree/master/1084%20-%20Apagando%20e%20Ganhando) em Python. <br>
+ 
+![image](https://user-images.githubusercontent.com/63034102/212784789-7923f3a5-8e16-4420-a269-ec60eecc3bee.png)
+ 
+ - Execução da questão [1524 - Fila do Bandejão](https://github.com/projeto-de-algoritmos/Greed_Solutions/tree/master/1524%20-%20Fila%20do%20Bandej%C3%A3o) em Python. <br>
+ 
+![image]()
+ 
+ - Execução da questão [1661 - Comercio de Vinhos](https://github.com/projeto-de-algoritmos/Greed_Solutions/tree/master/1661%20-%20Comercio%20de%20Vinhos) em Python. <br>
+ 
+![image]()
+
+ - Execução da questão [2095 - Guerra](https://github.com/projeto-de-algoritmos/Greed_Solutions/tree/master/2095%20-%20Guerra) em Python. <br>
+ 
+![image](https://user-images.githubusercontent.com/63034102/212784854-c0101d83-121a-4fb3-ade7-911fadf2ac09.png)
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagens**: Python<br>
 
+### Pré-requisitos
+  - Ter instalado as linguagens:
+    - Python 3.8 ou superior.
+    
+### Comandos Necessários
+
+  - Para rodar as questões em Python use o comando:
+  
+  ```
+  python nome_do_codigo.py
+  ```
+  
+  - Ou:
+  
+  ```
+  python3 nome_do_codigo.py
+  ```
+  
+  
+  
+### Ambientes Online
+
+ - Caso não queira instalar as linguagens no seu computador, é possível utilizar ambientes online para rodar os códigos como o [Compiler Explorer](https://godbolt.org/). <br>
+   
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+ - Após rodar o código, utilize os **Exemplos de Entrada** disponíveis no README de cada pasta, ou na página do problema no Beecrowd. Depois, compare as saídas com as os **Exemplos de Saída** de cada problema.
+ 
+ - **Importante:** O formato das entradas deve ser seguido a risca, caso contrário o código pode ter um funcionamento inesperado.
+ 
+ - **Exemplo de Entradas e Saídas de Problemas no README** <br>
+ 
+ ![image](https://user-images.githubusercontent.com/33001620/203197165-31eb7378-1ed5-4ab8-83fc-fdafea9bfc6e.png)
+ 
+ - **Exemplo de Entradas e Saídas de Problemas no Beecrowd** <br>
+ 
+ ![image](https://user-images.githubusercontent.com/33001620/203197240-6f4c19e7-3bff-4a4b-82b3-5845ecc3e90a.png)
+
 
 
 
