@@ -26,11 +26,11 @@ Cada questão está em uma pasta, onde se encontra um README com a descrição d
  
  - Execução da questão [1524 - Fila do Bandejão](https://github.com/projeto-de-algoritmos/Greed_Solutions/tree/master/1524%20-%20Fila%20do%20Bandej%C3%A3o) em Python. <br>
  
-![image]()
+![image](https://user-images.githubusercontent.com/33001620/212790526-7ddb87bd-df3e-4642-8cc0-d754a34e6f82.png)
  
  - Execução da questão [1661 - Comercio de Vinhos](https://github.com/projeto-de-algoritmos/Greed_Solutions/tree/master/1661%20-%20Comercio%20de%20Vinhos) em Python. <br>
  
-![image]()
+![image](https://user-images.githubusercontent.com/33001620/212790392-03f58aa4-1d4f-47a9-af5d-c86994eb641b.png)
 
  - Execução da questão [2095 - Guerra](https://github.com/projeto-de-algoritmos/Greed_Solutions/tree/master/2095%20-%20Guerra) em Python. <br>
  
